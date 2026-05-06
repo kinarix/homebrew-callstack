@@ -1,14 +1,14 @@
 cask "callstack" do
-  version "0.15.0"
+  version "0.16.0"
 
   on_arm do
-    sha256 "4b16910b4a7c033590c9886f8f0d601640d848b50944b969d454faef47cfa3ff"
-    url "https://github.com/kinarix/callstack/releases/download/Callstack-v0.15.0/Callstack_0.15.0_aarch64.dmg"
+    sha256 "2700228b65e929250634bfe364cef984b9dc446adfe4ed1fc7b1a5d54f3ad258"
+    url "https://github.com/kinarix/callstack/releases/download/Callstack-v0.16.0/Callstack_0.16.0_aarch64.dmg"
   end
 
   on_intel do
-    sha256 "9e51e94a0ee873ae9069071a93decf80ab4ebe442bf973a76ef94eab2536f27d"
-    url "https://github.com/kinarix/callstack/releases/download/Callstack-v0.15.0/Callstack_0.15.0_x64.dmg"
+    sha256 "7da0c461d345458a8bf71f432b3b9960ddf4349e5fb2395f54b25ea286b3d231"
+    url "https://github.com/kinarix/callstack/releases/download/Callstack-v0.16.0/Callstack_0.16.0_x64.dmg"
   end
 
   name "Callstack"
